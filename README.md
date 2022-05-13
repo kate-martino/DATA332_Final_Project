@@ -10,7 +10,7 @@ We were sure to keep the integrety of the raw and clean data files we were provi
 
 ## Visualization #1 
 Purpose of this Visual: We chose a line graph so we can see the change over time when it comes to the average wing width. The multiple lines allows us to compare both the right wing and the left wing on the same plane. It is interesting to see how this specific aspect of the Cabbage butterfly's anatomy has changed from 1865 to 2015. This information could be valuable when it comes to forecasting what the butterfly's wing width may be in the future. It also makes us wonder/ want to dive deeper in regards to what is causing the peaks and valleys in the data. 
-
+<img src = "Imaages/ANME" height="250" width="500">
 ![image](https://user-images.githubusercontent.com/104874520/168184698-fe43f58d-81d8-42a8-a154-a0ce973d2a43.png)
 
 ## Visualization #2
