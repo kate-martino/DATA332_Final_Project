@@ -10,15 +10,17 @@ We were sure to keep the integrety of the raw and clean data files we were provi
 
 ## Visualization #1 
 Purpose of this Visual: We chose a line graph so we can see the change over time when it comes to the average wing width. The multiple lines allows us to compare both the right wing and the left wing on the same plane. It is interesting to see how this specific aspect of the Cabbage butterfly's anatomy has changed from 1865 to 2015. This information could be valuable when it comes to forecasting what the butterfly's wing width may be in the future. It also makes us wonder/ want to dive deeper in regards to what is causing the peaks and valleys in the data. 
-<img src = "Imaages/ANME" height="250" width="500">
-![image](https://user-images.githubusercontent.com/104874520/168184698-fe43f58d-81d8-42a8-a154-a0ce973d2a43.png)
+
+<img src = "Images/Wing_Width_Over_Time" height="500" width="700">
 
 ## Visualization #2
 Prupose of this Visual: This visual is helpful in examining how the wing length of the cabbage butterfly differs between various countries. It can be seen in this visual that over time all four countries collected in the data have varying average length for both the right wing and the left wing. It also shows us that some countries only have data collected from certain years. Byusing the facet wrap function we can easily compare the countries to one another in a single visual. 
+
 ### Right Wing Length
-![image](https://user-images.githubusercontent.com/104874520/168187366-32232066-4753-491a-978a-9fc109973334.png)
+<img src = "Images/LW_width_country" height="500" width="700">
+
 ### Left Wing Length
-![image](https://user-images.githubusercontent.com/104874520/168187409-bc89ae90-2e44-4cd6-9310-a2afa5337f2d.png)
+<img src = "Images/RW_width_country" height="500" width="700">
 
 # Visualization #3
 Purpose of this visual: This visual is helpful in examining how the wing length of the cabbage butterfly differs between various countries. It can be seen in this visual that over time all four countries collected in the data have varying average length for both the right wing and the left wing. It also shows us that some countries only have data collected from certain years. Byusing the facet wrap function we can easily compare the countries to one another in a single visual. 
