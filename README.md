@@ -36,7 +36,7 @@ Purpose of this visual: This visual is helpful in examining how the wing length 
 ## Mean, Median, Max, Min
 <img src = "Images/Median_by_decade" height="500" width="700">
 <img src = "Images/Corr_Left_Right" height="500" width="700">
-<img src = "Images/Boxplot_Right_Left_Data" height="500" width="700">
+<img src = "Images/Boxplot_Left_Right_Data" height="500" width="700">
 
 
 
