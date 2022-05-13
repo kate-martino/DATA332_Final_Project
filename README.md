@@ -20,14 +20,24 @@ Prupose of this Visual: This visual is helpful in examining how the wing length 
 <img src = "Images/LW_width_country" height="500" width="700">
 
 ### Left Wing Length
-<img src = "Images/RW_width_country" height="500" width="700">
+<img src = "Images/RW_width_country.png" height="500" width="700">
 
-# Visualization #3
+## Visualization #3
 Purpose of this visual: This visual is helpful in examining how the wing length of the cabbage butterfly differs between various countries. It can be seen in this visual that over time all four countries collected in the data have varying average length for both the right wing and the left wing. It also shows us that some countries only have data collected from certain years. Byusing the facet wrap function we can easily compare the countries to one another in a single visual. 
+
 ### Left Wing
-![image](https://user-images.githubusercontent.com/104874520/168187854-c8b03607-9c70-4fac-ad81-c02f033dfaf0.png)
+<img src = "Images/LW_apex_sex" height="500" width="700">
+
 ### Right Wing
-![image](https://user-images.githubusercontent.com/104874520/168187976-f6c33a6c-3846-44f0-aa46-850659d40496.png)
+<img src = "Images/RW_apex_sex" height="500" width="700">
+
+## T-Test 
+
+## Mean, Median, Max, Min
+<img src = "Images/Median_by_decade" height="500" width="700">
+<img src = "Images/Corr_Left_Right" height="500" width="700">
+<img src = "Images/Boxplot_Right_Left_Data" height="500" width="700">
+
 
 
 
