@@ -31,7 +31,8 @@ Purpose of this visual: This visual is helpful in examining how the wing length 
 ### Right Wing
 <img src = "Images/RW_apex_sex" height="500" width="700">
 
-## T-Test 
+## T-Test
+We performed a paired t-test for the left and right data. We found that the p-value was 0.1769 and that the true difference in means is not equal to zero meaning the data has a high correlation.
 
 ## Mean, Median, Max, Min
 In this section you will see a variety of visualizations that show the descriptive statistics of the Cabbage Butterfly data. We preformed calculations and visualized this data by splitting the data into two groups, the left and right data. By doing this we were able to look at each of the variables in those groups and analyze their correlation. The first visualization you will see is a stacked line graph showing the median apex, length, and width of the left and right data over time. You can see that both the left and right wing data are very similar when it comes to the peaks and valleys represented on the graph. The next graph is a scatter plot showing the correlation between the right and left data. This correlation is positive and very strong because as you can tell from, the visualization it is very linear. This makes a lot of sense because the two variables being looked at are the left and right side of the cabbage butterfly and a butterfly is symmetrical. Lastly, the boxplot visual shows the descriptive statistics for the data in a different manner. Here we can draw a similar conclusion regarding the symmetry of butterfly.  
@@ -71,6 +72,4 @@ Purpose of Visualization: The purpose of this visualization is to see the distri
 Due to the high amounts of categorical data we had in the lady bug data set we chose to take the Mean, Median, Mix, and Max of the date column to see how many ladybug were collected during each day. We found that on June 17th, 2021 there were the smallest number of lady bugs collected. On August 3rd 2021 the highest numbr of lady bugs were collected. Lastly, we. found that on August 4th, 2021 was the median for number of ladybugs collected. To do this we used base R to calculate the Max, Min, and Median number. We stored this information in a table to look at. 
 
 ## Chi Squared Test
-
-
-
+This data set had a high volume of categorical data, so we decided to perform a Chi Squared test to look for a correlation between different variables in the data set. We looked at the combination of Collector and Species in addition to Coordinates and Species. A p-value is a statistical measurement used to validate a hypothesis against observed data. A p-value measures the probability of obtaining the observed results, assuming that the null hypothesis is true. The lower the p-value, the greater the statistical significance of the observed difference. For the first combination of data, we got a p-value of 0.01499 and the second we got a p-value of 0.0004988. This shows the relation among Coordinates and Species is statistically significant due to the lower p-value.
