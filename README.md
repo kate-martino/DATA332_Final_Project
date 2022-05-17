@@ -34,6 +34,8 @@ Purpose of this visual: This visual is helpful in examining how the wing length 
 ## T-Test 
 
 ## Mean, Median, Max, Min
+In this section you will see a variety of visualizations that show the descriptive statistics of the Cabbage Butterfly data. We preformed calculations and visualized this data by splitting the data into two groups, the left and right data. By doing this we were able to look at each of the variables in those groups and analyze their correlation. The first visualization you will see is a stacked line graph showing the median apex, length, and width of the left and right data over time. You can see that both the left and right wing data are very similar when it comes to the peaks and valleys represented on the graph. The next graph is a scatter plot showing the correlation between the right and left data. This correlation is positive and very strong because as you can tell from, the visualization it is very linear. This makes a lot of sense because the two variables being looked at are the left and right side of the cabbage butterfly and a butterfly is symmetrical. Lastly, the boxplot visual shows the descriptive statistics for the data in a different manner. Here we can draw a similar conclusion regarding the symmetry of butterfly.  
+
 <img src = "Images/Median_by_decade" height="500" width="700">
 <img src = "Images/Corr_Left_Right" height="500" width="700">
 <img src = "Images/Boxplot_Left_Right_Data" height="500" width="700">
@@ -62,6 +64,7 @@ Purpose of Visualization: The purpose of this visualization is to see which coll
 
 ## Visualization #4
 Purpose of Visualization: The purpose of this visualization is to see the distribution of the overall amount of ladybugs collected each day. We can see that they were collected in increments of three days over three months time. This graph also showsus that over the months from June to August the volume of ladybugs collected increased. 
+
 <img src = "Images/Date_Freq.png" height="500" width="700">
 
 ## Median, Max, Min
