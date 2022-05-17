@@ -38,8 +38,36 @@ Purpose of this visual: This visual is helpful in examining how the wing length 
 <img src = "Images/Corr_Left_Right" height="500" width="700">
 <img src = "Images/Boxplot_Left_Right_Data" height="500" width="700">
 
+# Ladybug Data
+### Introduction
+We received this data from the Biology Department at Augustana College. This specific data set is a collection of ladybug data that the department found in the summer months of 2021. The data includes fields such as species, collector, family, genus, coordinates, and date. With this data out group chose to prepare a variety of visualizations to provide insights regarding the ladybug collection project.
 
+### Data Cleaning Process
+For this data set specifically the main data cleaning process we had to preform was cleaning the sting inconsistencies in the data to ensure we could preform accurate calculations. In the ladybug data we cleaned the Species and Collector columns. To do this we used the function Str_replace to identify the incorrect string and match it with one consistent sting for that column for each value. While this was rather time consuming it was the dynamic way to clean the data so if more data were to get added with the same error it can be cleaned with the click of a button. For the sake of our project, we also decided to drop all the NULL values in. our data set to make out visualizations and calculations clearer. 
 
+## Visualization #1
+Purpose of this Visualization: The purpose of this visualization is to show the distribution of ladybug collection by each person. Here you can see that all four collectors collected around the same amount but O. Ruffatto collected the most by about 7 ladybugs. 
+  
+<img src = "Images/Count_Collector.png" height="600" width="500">
+
+## Visualization #2
+Purpose of Visualization: The purpose of this visualization is to show the overall distribution of what species were collected at the highest frequency. We can see that the Harmonia axyridis was most collected at 179 and the Colemegilla Maculata was not far behind at  a count of 128. 
+
+<img src = "Images/Count_Species.png" height="600" width="700">
+
+## Visualization #3
+Purpose of Visualization: The purpose of this visualization is to see which collector collected what specific species. As you can see the overall distribution of species among collector is pretty equal. It can bee seen that M. Gorsegnerand O.Ruffatto collected a larger amount of ladybugs in general. 
+
+<img src = "Images/Collector_Species.png" height="500" width="700">
+
+## Visualization #4
+Purpose of Visualization: The purpose of this visualization is to see the distribution of the overall amount of ladybugs collected each day. We can see that they were collected in increments of three days over three months time. This graph also showsus that over the months from June to August the volume of ladybugs collected increased. 
+<img src = "Images/Date_Freq.png" height="500" width="700">
+
+## Median, Max, Min
+Due to the high amounts of categorical data we had in the lady bug data set we chose to take the Mean, Median, Mix, and Max of the date column to see how many ladybug were collected during each day. We found that on June 17th, 2021 there were the smallest number of lady bugs collected. On August 3rd 2021 the highest numbr of lady bugs were collected. Lastly, we. found that on August 4th, 2021 was the median for number of ladybugs collected. To do this we used base R to calculate the Max, Min, and Median number. We stored this information in a table to look at. 
+
+## Chi Squared Test
 
 
 
