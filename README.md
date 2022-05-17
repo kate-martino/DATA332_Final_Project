@@ -1,4 +1,4 @@
-# DATA 332 Final Project
+# DATA 332 Final Project - Augustana College
 ## Authors: Kate Martino, Nicole Nguyen, Tran Bui, Claire Weeks
 
 # Cabbage Butterfly Data
